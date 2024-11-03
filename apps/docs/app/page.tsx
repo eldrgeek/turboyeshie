@@ -16,7 +16,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            DOCS V4 Get started by editing <code>app/page.tsx</code>
+            DOCS V5 Get started by editing <code>app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>

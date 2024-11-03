@@ -16,7 +16,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            WEBBBBBBBBBB V4 You can GET started by RTYING <code>app/page.tsx</code>
+            WEBBBBBBBBBB V5 You can GET started by RTYING <code>app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
