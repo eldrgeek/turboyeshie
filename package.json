@@ -1,5 +1,8 @@
 {
-  "name": "my-turborepo",
+    "name": "turboyeshie",
+    "workspaces": [
+      "packages/*"
+    ],
   "private": true,
   "scripts": {
     "build": "turbo build",
