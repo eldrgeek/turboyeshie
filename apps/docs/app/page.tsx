@@ -16,7 +16,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            YOU CAN GET DOCS Get started by editing <code>app/page.tsx</code>
+            DOCS V3 Get started by editing <code>app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
